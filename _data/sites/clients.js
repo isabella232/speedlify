@@ -16,5 +16,7 @@ module.exports = {
     "https://www.aaldef.org/",
     "https://www.retroreport.org/",
     "https://www.transposit.com/",
+    "https://www.transposit.com/blog",
+    "https://www.transposit.com/about",
   ],
 };
