@@ -15,5 +15,6 @@ module.exports = {
     "https://www.ndbooks.com/",
     "https://www.aaldef.org/",
     "https://www.retroreport.org/",
+    "https://www.transposit.com/",
   ],
 };
